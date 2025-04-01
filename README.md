@@ -1,4 +1,4 @@
-### ########################################################################  
+########################################################################  
 ### OBJECT DETECTION USING AI/ML
 ### 0b_shoe_classification_based_on_feeback.py
 
@@ -13,7 +13,7 @@ i use the resnet50 pretained model which can detect objects . and then i am tryi
    
    
    
-### ########################################################################  
+########################################################################  
 ### COMPUTER VISION / MOTION DETECTION USING AI/ML
 ### 2_TRACKPOSE_yolov8_human_tracking_v2_posedetect_MediaPipe_W.py
 
@@ -28,7 +28,7 @@ I was experimenting with computer vision models to detect motion in a video. i t
    
 
 
-### #######################################################################   
+#######################################################################   
 ### GEN AI/ML MUSIC GENERATION by TRAINING BASED ON EXISTING MUSIC
 ### 9a_intial_train_LSTM_model.py
 ## MODEL USED
